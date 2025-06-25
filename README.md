@@ -21,5 +21,4 @@ Welcome to a fun and simple **Tic Tac Toe** game you can play right in the termi
 git clone https://github.com/Sujal-369-py/Tic-Tac-Toi-two-user-.git
 cd Tic-Tac-Toi-two-user-
 
-Run the game
-python main.py
+
